@@ -1,0 +1,74 @@
+
+.contenedor{
+    animation-play-state: ;
+}
+
+
+
+
+
+
+
+.audio {
+
+	size: 60px;
+  color: black;
+   text-align: center;
+
+}
+
+header{
+	background:red
+	color:black;
+	/* text-align: center;*/
+}
+
+
+div {
+  background: #f9a83f;
+   color:#fff;
+}
+
+.audio2{
+	 background: black;
+   color:#fff;
+}
+
+div {
+  background: #f9a83f;
+   color:#fff;
+
+}
+.audio4{
+	 background: black;
+   color:#fff;
+
+}
+.audio5{
+  background: black;
+   color:#fff;
+
+}
+.audio6{
+	 background:  #f9a83f;
+   color:#fff;
+
+}
+.audio7{
+  background: black;
+   color:#fff;
+
+}
+.audio8{
+	 background: black;
+   color:#fff;
+   text-align: center;
+}
+.audiox{
+   text-align: center;
+   font-size: large;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.controls{
+
+}
